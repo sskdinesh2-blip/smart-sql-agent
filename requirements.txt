@@ -1,3 +1,10 @@
+openai
+streamlit
+pandas
+sqlalchemy
+psycopg2-binary
+python-dotenv
+plotly
 aiobotocore==2.19.0
 aiohappyeyeballs==2.4.6
 aiohttp==3.11.12
