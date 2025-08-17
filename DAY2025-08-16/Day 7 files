@@ -1,0 +1,8 @@
+src/auth_system.py
+src/team_collaboration.py
+src/enhanced_api_server.py
+src/day7_complete_interface.py
+src/day7_setup.py
+data/ folder with database files
+start_day7.bat and start_day7.sh
+Updated requirements.txt
