@@ -1,0 +1,33 @@
+bcrypt
+pyjwt
+python-multipart
+# Day 13 - Enterprise Integration Additional Requirements
+# Add these to your existing requirements.txt
+
+# API Framework
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+
+# Database & Redis
+redis==5.0.1
+psycopg2-binary==2.9.9
+sqlalchemy==2.0.23
+
+# HTTP Client & Authentication
+httpx==0.25.2
+pyjwt==2.8.0
+python-multipart==0.0.6
+
+# Security & Crypto
+cryptography==41.0.8
+passlib[bcrypt]==1.7.4
+
+# Additional Utilities
+python-dotenv==1.0.0
+pydantic==2.5.0
+
+# Already in your existing requirements (just for reference):
+# streamlit
+# pandas
+# plotly
+# openai
